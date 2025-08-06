@@ -2,9 +2,6 @@
 
 <p align="center">
   👀 Passionate about <strong>Web Technologies</strong> & modern tech stacks 💻 <br>
-  🌱 Currently diving into <strong>Java Full Stack Development</strong> with a focus on building scalable, user-centric applications.
-</p>
-
 ---
 
 ### 👨‍💻 About Me
