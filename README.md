@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmemFxbmI3cXI3d3RjY2w1OXV5Y2w2ZGE4eWtxNXZuYjM2cHMzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmBYEc/giphy.gif" width="300">
+  
 </p>
 
 <p align="center">
