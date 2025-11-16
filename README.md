@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">👋 Hello! I'm Dhanush Babu Mamuduru</h1>
-<h3 style="text-align:center;">Aspiring Java Full Stack Developer | 2024 B.Tech Graduate</h3>
+<h3 style="text-align:center;">Aspiring Java Full Stack Developer | 2025 B.Tech Graduate</h3>
 
 <div style="text-align:center; margin-bottom:20px;">
   <a href="https://www.linkedin.com/in/dhanush-babu-mamuduru-3863a2276" target="_blank">
@@ -93,4 +93,4 @@
   <li>🎯 <strong>Goal:</strong> Leverage cutting-edge tools to create <strong>innovative, production-ready applications</strong>, blending <strong>technology & design</strong> for modern, efficient web experiences</li>
 </ul>
 
-<p style="text-align:center;">✨ I aim to create innovative, scalable, and visually engaging web applications while continuously learning and growing as a developer. ✨</p>
+<p style="text-align:center;">✨ I aim to create innovative, scalable, and visually engaging web applications while continuously learning and growing as a developer.</p>
