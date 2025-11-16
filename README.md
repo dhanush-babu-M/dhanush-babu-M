@@ -15,12 +15,7 @@
 
 <hr/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 style="margin-top: 0;">📊 My GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-babu-M&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="100%"/>
-      <br><br>
+<br>
       <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
       <ul>
         <li>🤝 Open to collaborating on technical and non-technical projects that <strong>make a real impact</strong></li>
