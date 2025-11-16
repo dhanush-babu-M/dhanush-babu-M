@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">👋 Hello! I'm Dhanush Babu Mamuduru</h1>
-<h3 style="text-align:center;">Aspiring Java Full Stack Developer | 2025 B.Tech Graduate</h3>
+<h3 style="text-align:center;">Aspiring Java Full Stack Developer | 2024 B.Tech Graduate</h3>
 
 <div style="text-align:center; margin-bottom:20px;">
   <a href="https://www.linkedin.com/in/dhanush-babu-mamuduru-3863a2276" target="_blank">
@@ -15,14 +15,25 @@
 
 <hr/>
 
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🤝 Open to collaborating on technical and non-technical projects that <strong>make a real impact</strong></li>
-  <li>📫 Reach me at: <a href="mailto:mamudurudhanush6@gmail.com">mamudurudhanush6@gmail.com</a></li>
-  <li>😄 Pronouns: He / Him</li>
-  <li>⚡ <strong>Fun Fact:</strong> Fascinated by the intersection of technology and art — always exploring ways to create <strong>visually stunning user experiences</strong>! ✨</li>
-</ul>
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 style="margin-top: 0;">📊 My GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-babu-M&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="100%"/>
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=dhanush-babu-M&show_icons=true&theme=vision-friendly-dark&rank_icon=percentile" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
+      <ul>
+        <li>🤝 Open to collaborating on technical and non-technical projects that <strong>make a real impact</strong></li>
+        <li>📫 Reach me at: <a href="mailto:mamudurudhanush6@gmail.com">mamudurudhanush6@gmail.com</a></li>
+        <li>😄 Pronouns: He / Him</li>
+        <li>⚡ <strong>Fun Fact:</strong> Fascinated by the intersection of technology and art — always exploring ways to create <strong>visually stunning user experiences</strong>! ✨</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -82,10 +93,6 @@
     </ul>
   </li>
 </ul>
-
-<div style="text-align:center; margin:20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-babu-M&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
 
 <h2>🌱 Learning Journey</h2>
 <ul>
