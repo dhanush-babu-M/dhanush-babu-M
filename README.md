@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Dhanush Babu Mamuduru</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | 2024 B.Tech Graduate</h3>
+<h3 align="center">Aspiring Java Full Stack Developer | 2025 B.Tech Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-babu-mamuduru-3863a2276" target="_blank">
@@ -48,9 +48,10 @@
 ---
 
 ## 🌱 Learning Journey
-- 🌍 **Currently Exploring:** Microservices architecture with Spring Boot  
-- 📦 **Next Up:** Docker, containerization, and CI/CD pipelines  
-- ⚡ Constantly seeking to **blend technology & design** to build modern, clean, and efficient web applications  
+- 🌍 **Currently Exploring:** ServiceNow platform to build modern enterprise solutions  
+- ⚡ **Next Up:** Workflow automation, low-code development, and integrating with APIs  
+- 🎯 **Goal:** Leverage cutting-edge tools to create **innovative, production-ready applications**, blending **technology & design** for modern, efficient web experiences
+
 
 ---
 
