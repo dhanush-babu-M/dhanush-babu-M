@@ -46,6 +46,10 @@
   * Gained hands-on experience in Spring Boot and database integration  
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-babu-M&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>
+
 
 ## 🌱 Learning Journey
 - 🌍 **Currently Exploring:** ServiceNow platform to build modern enterprise solutions  
