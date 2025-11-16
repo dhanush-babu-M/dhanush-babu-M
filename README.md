@@ -27,7 +27,7 @@
 
 | Project | Features | Live Demo |
 |---------|---------|-----------|
-| **ChronoVault** | Advanced full-stack web app for secure data management | [Live Demo](https://dhanush-vault.netlify.app) |
+| **ChronoVault** | full JavaScript stack | [Live Demo](https://dhanush-vault.netlify.app) |
 | **Bark & Buy** | Pet marketplace with user authentication | [Live Demo](https://barkandbuy.netlify.app) |
 | **Netflix Clone (StreamFlixee)** | Streaming platform UI clone with video listing | [Live Demo](https://streamflixee.netlify.app/) |
 | **TastesFindsu** | Food discovery platform with interactive UI | [Live Demo](https://tastes-finds-u.netlify.app) |
@@ -50,8 +50,7 @@
 ## 🌱 Learning Journey
 - 🌍 **Currently Exploring:** ServiceNow platform to build modern enterprise solutions  
 - ⚡ **Next Up:** Workflow automation, low-code development, and integrating with APIs  
-- 🎯 **Goal:** Leverage cutting-edge tools to create **innovative, production-ready applications**, blending **technology & design** for modern, efficient web experiences
-
+- 🎯 **Goal:** Leverage cutting-edge tools to create **innovative, production-ready applications**, blending **technology & design** for modern, efficient web experiences  
 
 ---
 
