@@ -32,12 +32,17 @@
   <img src="https://img.shields.io/badge/Bank%20Management-Core%20Java/SQL-red?style=for-the-badge" />
 </p>
 
-| Project | Tech Stack | Features | Links |
-|---------|-----------|---------|-------|
-| **E-Commerce Platform** | Java, Spring Boot, React, MySQL | User auth, product catalog, cart, checkout | [GitHub](#) • [Live Demo](#) |
-| **Hotel Reservation System** | Java, Spring Boot, Hibernate, SQL | Room management, booking & payment simulation | [GitHub](#) • [Live Demo](#) |
-| **Bark & Buy** | Java, JSP, Servlets, MySQL | Pet products marketplace, secure login | [GitHub](#) • [Live Demo](#) |
-| **Bank Management System** | Core Java, SQL | Account creation, deposit/withdrawal, balance inquiry | [GitHub](#) |
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Features | Live Demo |
+|---------|-----------|---------|-----------|
+| **ChronoVault** | Java, Spring Boot, React | Advanced full-stack web app for secure data management | [Live Demo](https://dhanush-vault.netlify.app) |
+| **Bark & Buy** | Java, JSP, Servlets, MySQL | Pet marketplace with user authentication | [Live Demo](https://barkandbuy.netlify.app) |
+| **Netflix Clone (StreamFlixee)** | React, Firebase | Streaming platform UI clone with video listing | [Live Demo](https://streamflixee.netlify.app/) |
+| **TastesFindsu** | HTML, CSS, JS | Food discovery platform with interactive UI | [Live Demo](https://tastes-finds-u.netlify.app) |
+| **E-Commerce Platform (ShopEase)** | Java, Spring Boot, React, MySQL | Online shopping platform with cart & checkout | [Live Demo](https://shopease-frontend-omega.vercel.app) |
+| **Echodesk Internship Project** | Java, Spring Boot | Real-time enterprise web app & chatbot | [Live Demo](https://echodesk-chatbot.onrender.com) |
+
 
 ---
 
