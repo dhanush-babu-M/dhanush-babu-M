@@ -80,8 +80,8 @@
   </li>
   <li><strong>Internship: Echodesk Project</strong>
     <ul>
-      <li>Contributed to real-world enterprise development tasks</li>
-      <li>Gained hands-on experience in Spring Boot and database integration</li>
+      <li>Contributed to real-world enterprise development tasks.</li>
+      <li>Gained hands-on experience in Spring Boot and database integration.</li>
     </ul>
   </li>
 </ul>
