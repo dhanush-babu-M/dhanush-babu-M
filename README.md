@@ -1,17 +1,53 @@
-<h1 style="text-align:center;">👋 Hello! I'm Dhanush Babu Mamuduru</h1>
-<h3 style="text-align:center;">Aspiring Java Full Stack Developer | 2025 B.Tech Graduate</h3>
+<div style="
+  max-width:800px;
+  margin:auto;
+  padding:30px;
+  text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+">
 
-<div style="text-align:center; margin-bottom:20px;">
-  <a href="https://www.linkedin.com/in/dhanush-babu-mamuduru-3863a2276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dhanushbabu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00B3B3?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mamudurudhanush6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <h1 style="
+    margin-bottom:8px;
+    font-size:32px;
+    font-weight:700;
+  ">
+    👋 Hi, I'm <span style="color:#0077B5;">Dhanush Babu Mamuduru</span>
+  </h1>
+
+  <h3 style="
+    margin-top:0;
+    font-weight:400;
+    color:#555;
+  ">
+    Aspiring Java Full Stack Developer | B.Tech Graduate (2025)
+  </h3>
+
+  <p style="
+    color:#666;
+    font-size:15px;
+    margin:20px 0 30px;
+    line-height:1.6;
+  ">
+    Passionate about building scalable web applications using Java, SQL, HTML, CSS, and JavaScript.
+    Actively seeking an entry-level opportunity to apply my skills and grow as a software developer.
+  </p>
+
+  <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+    <a href="https://www.linkedin.com/in/dhanush-babu-mamuduru-3863a2276" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+
+    <a href="https://dhanushbabu.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-View-00B3B3?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+
+    <a href="mailto:mamudurudhanush6@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
 </div>
+
 
 <hr/>
 
