@@ -79,7 +79,7 @@
       <li>Built Bank Management System & other full-stack projects during training</li>
     </ul>
   </li>
-  <li><strong>Internship: Echodesk Project</strong>
+  <li><strong>Internship: Echo-desk Project</strong>
     <ul>
       <li>Contributed to real-world enterprise development tasks</li>
       <li>Gained hands-on experience in Spring Boot and database integration</li>
