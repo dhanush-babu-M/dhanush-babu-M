@@ -1,5 +1,5 @@
 <h1 style="text-align:center; margin-bottom:6px;">
-  Hi, I’m <span style="color:#00b3b3;">Dhanush Babu Mamuduru</span>
+  Hi, I’m <span style="color:#00b3b3;">Mamuduru Dhanush Babu</span>
 </h1>
 
 <h3 style="text-align:center; font-weight:500; margin-top:0; margin-bottom:12px;">
