@@ -3,7 +3,7 @@
 </h1>
 
 <h3 style="text-align:center; font-weight:500; margin-top:0; margin-bottom:12px;">
-  Java Full Stack Developer in the Making | B.Tech Graduate (2024)
+  Java Full Stack Developer in the Making | B.Tech Graduate (2025)
 </h3>
 
 <div style="text-align:center; margin-bottom:14px;">
