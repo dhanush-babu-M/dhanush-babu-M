@@ -2,7 +2,7 @@
   Hi, I’m <span style="color:#00b3b3;">Mamuduru Dhanush Babu</span>
 </h1>
 
-<h3 style="text-align:center; font-weight:500; margin-top:0; margin-bottom:12px;">
+<h3 style="text-align:center; font-weight:500; margin-top:0; margin-bottom:12px;"> 
   Java Full Stack Developer in the Making | B.Tech Graduate (2025)
 </h3>
 
